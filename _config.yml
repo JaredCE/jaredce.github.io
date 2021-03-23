@@ -21,7 +21,7 @@
 title: The Failed Guru
 email: jared@failed.guru
 description: >- # this means to ignore newlines until "baseurl:"
-  I failed to become a guru, now i will teach you my failings to learn from.
+  I failed to become a guru, now I will teach you my failings to learn from.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jarede
